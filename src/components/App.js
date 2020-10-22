@@ -1,44 +1,26 @@
 import React from "react";
 
+import Header from "./Header";
+import About from "./About";
+import Social from "./Social";
+import Footer from "./Footer";
+
 const App = () => {
   return (
-    <div className="ui center aligned container grid" style={{ marginTop: "5%", fontSize: "21px" }}>
-      <div className="row">
-        <picture>
-          <img
-            src="/images/davidmontesdeoca-200.png"
-            alt="David Montesdeoca"
-            className="ui centered circular image"
-          />
-        </picture>
-      </div>
+    <>
+      <header role="banner">
+        <Header />
+      </header>
 
-      <div className="row">
-        <header>
-          <h1 className="ui huge header" data-testid="header">
-            Hi! I'm David Montesdeoca
-          </h1>
-          <p>
-            I'm a software developer from Las Palmas de Gran Canaria, Spain and currently living in
-            Madrid.
-          </p>
-        </header>
-      </div>
+      <main role="main">
+        <About />
+        <Social />
+      </main>
 
-      <div className="row">
-        <div className="ui massive message">
-          <i className="info circle icon"></i>
-          New site is coming soon...
-        </div>
-      </div>
-
-      <div className="row">
-        <p>
-          Right now, if you want to know more about me, please check{" "}
-          <a href="https://www.linkedin.com/in/backpackerhh">my LinkedIn profile</a>.
-        </p>
-      </div>
-    </div>
+      <footer role="contentinfo">
+        <Footer />
+      </footer>
+    </>
   );
 };
 
