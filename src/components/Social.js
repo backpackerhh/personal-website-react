@@ -9,7 +9,7 @@ const Social = () => {
         <SocialItem
           text="LinkedIn"
           icon="linkedin big"
-          url="https://www.linkedin.com/in/backpackerhh"
+          url="https://linkedin.com/in/backpackerhh"
         />
         <SocialItem text="Twitter" icon="twitter big" url="https://twitter.com/backpackerhh" />
         <SocialItem text="GitHub" icon="github big" url="https://github.com/backpackerhh" />
