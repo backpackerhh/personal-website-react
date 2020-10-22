@@ -2,7 +2,6 @@ import React from "react";
 
 import Header from "./Header";
 import About from "./About";
-import Social from "./Social";
 import Footer from "./Footer";
 
 const App = () => {
@@ -14,7 +13,6 @@ const App = () => {
 
       <main role="main">
         <About />
-        <Social />
       </main>
 
       <footer role="contentinfo">
