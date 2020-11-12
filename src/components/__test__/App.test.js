@@ -35,5 +35,5 @@ it("renders expected content", () => {
   expect(links[3]).toHaveAttribute("href", "http://stackoverflow.com/users/1477964/backpackerhh");
 
   expect(links[4]).toHaveTextContent("Email");
-  expect(links[4]).toHaveAttribute("href", "mailto:backpackerhh@gmail.com");
+  expect(links[4]).toHaveAttribute("href", "mailto:backpackerhh@davidmontesdeoca.es");
 });

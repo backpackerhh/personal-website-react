@@ -18,7 +18,11 @@ const Social = () => {
           icon="stack overflow big"
           url="http://stackoverflow.com/users/1477964/backpackerhh"
         />
-        <SocialItem text="Email" icon="mail outline big" url="mailto:backpackerhh@gmail.com" />
+        <SocialItem
+          text="Email"
+          icon="mail outline big"
+          url="mailto:backpackerhh@davidmontesdeoca.es"
+        />
       </div>
     </div>
   );
