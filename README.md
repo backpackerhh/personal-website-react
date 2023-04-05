@@ -8,7 +8,7 @@
 - CSS markup via [Sass](http://sass-lang.com/) + [Semantic UI](http://semantic-ui.com/)
 - Tested with [Jest](https://jestjs.io/)
 - Coded with [Sublime Text](https://www.sublimetext.com/)
-- Developed running [Ubuntu MATE 18.04.1 LTS](https://ubuntu-mate.org/)
+- Developed running [Ubuntu MATE 22.04.1 LTS](https://ubuntu-mate.org/)
 
 ## Deploy
 
