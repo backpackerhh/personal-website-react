@@ -4,8 +4,9 @@ import SocialItem from "./SocialItem";
 
 const Social = () => {
   return (
-    <div className="ui four column stackable grid">
+    <div className="ui five column stackable grid">
       <div className="row">
+        <SocialItem text="Blog" icon="pen square big" url="https://blog.davidmontesdeoca.es" />
         <SocialItem
           text="LinkedIn"
           icon="linkedin big"
