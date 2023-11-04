@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/backpackerhh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://davidmontesdeoca.es
+  * I am backpackerhh (https://keybase.io/backpackerhh) on keybase.
+  * I have a public key ASAbGAEAN_vx-W97CRO0GG3xEQReFKUk6y65OpxeZCaPugo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201b18010037fbf1f96f7b0913b4186df111045e14a524eb2eb93a9c5e64268fba0a",
+      "host": "keybase.io",
+      "kid": "01201b18010037fbf1f96f7b0913b4186df111045e14a524eb2eb93a9c5e64268fba0a",
+      "uid": "4579a411d08a431ac5a258f835336319",
+      "username": "backpackerhh"
+    },
+    "merkle_root": {
+      "ctime": 1699121371,
+      "hash": "58d7cb6e1ce6120a9e16e46fc1e288694dd39e37b1d2924bc2334e43222a0bfbf7f6cc6d4800746162b21026ff0f84ee5235b303bd7a1ba9b575569de7091418",
+      "hash_meta": "cf2ef1ff15392c1a0bea9d9bf426c8f55785b44bed04207030d4a4866a149c46",
+      "seqno": 25107487
+    },
+    "service": {
+      "entropy": "boiQchxT6xVyBlhe+KHgMlyB",
+      "hostname": "davidmontesdeoca.es",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.3"
+  },
+  "ctime": 1699121409,
+  "expire_in": 504576000,
+  "prev": "0fbca95c55fc42ba0244afe0abb4eef92ddebe4e51511ad1083be18c69b6dc63",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGxgBADf78flvewkTtBht8REEXhSlJOsuuTqcXmQmj7oKp3BheWxvYWTESpcCBcQgD7ypXFX8QroCRK/gq7Tu+S3evk5RURrRCDvhjGm23GPEILsbxh+YK/+MGOHbw7QwcE9wXPGa3FGRLUTjL7/IM7x3AgHCo3NpZ8RAyOAziKJQKT4AOhiAWf/Vjt48nzrde/0PS0MAdsJbj4eolak1S0VTVx5aZuEZxsiqiYY0ZaPCeMNRHwU26JkMAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDCfv8GtumoXQxqZdPzZZby+yXCPRpD8OwexcJ8Ct5jBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/backpackerhh
+
+==================================================================
