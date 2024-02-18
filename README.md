@@ -4,6 +4,16 @@
 
 ## About this site
 
+### New site
+
+- Powered by [Vite](https://vitejs.dev/)
+- CSS markup via [Sass](http://sass-lang.com/) + [Semantic UI](http://semantic-ui.com/)
+- Tested with [Vitest](https://vitest.dev/)
+- Coded with [VSCodium](https://vscodium.com/)
+- Developed running [Ubuntu MATE 22.04.1 LTS](https://ubuntu-mate.org/)
+
+### Old site
+
 - Powered by [Create React App](https://create-react-app.dev/)
 - CSS markup via [Sass](http://sass-lang.com/) + [Semantic UI](http://semantic-ui.com/)
 - Tested with [Jest](https://jestjs.io/)
@@ -12,7 +22,7 @@
 
 ## Deploy
 
-After every commit to the _master_ branch in GitHub, the app is automatically deployed to [Netlify](https://www.netlify.com/).
+After every commit to the _master_ branch on GitHub, the app is automatically deployed to [Netlify](https://www.netlify.com/).
 
 ## License
 
