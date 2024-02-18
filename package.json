@@ -39,5 +39,7 @@
   "resolutions": {
     "@babel/preset-env": "7.21.4"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
