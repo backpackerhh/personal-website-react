@@ -9,7 +9,7 @@ it("renders expected content", () => {
   render(
     <I18nextProvider i18n={i18n}>
       <App />
-    </I18nextProvider>
+    </I18nextProvider>,
   );
 
   expect(screen.getByRole("navigation")).toHaveTextContent("English");
@@ -28,12 +28,15 @@ it("renders expected content", () => {
   expect(links[1]).toHaveTextContent("LinkedIn");
   expect(links[1]).toHaveAttribute("href", "https://linkedin.com/in/backpackerhh");
 
-  expect(links[2]).toHaveTextContent("GitHub");
-  expect(links[2]).toHaveAttribute("href", "https://github.com/backpackerhh");
+  expect(links[2]).toHaveTextContent("CV");
+  expect(links[2]).toHaveAttribute("href", "https://mnf.red/davidmontesdeoca");
 
   expect(links[3]).toHaveTextContent("Stack Overflow");
   expect(links[3]).toHaveAttribute("href", "http://stackoverflow.com/users/1477964/backpackerhh");
 
-  expect(links[4]).toHaveTextContent("Email");
-  expect(links[4]).toHaveAttribute("href", "mailto:backpackerhh@davidmontesdeoca.es");
+  expect(links[4]).toHaveTextContent("GitHub");
+  expect(links[4]).toHaveAttribute("href", "https://github.com/backpackerhh");
+
+  expect(links[5]).toHaveTextContent("Email");
+  expect(links[5]).toHaveAttribute("href", "mailto:backpackerhh@davidmontesdeoca.es");
 });
