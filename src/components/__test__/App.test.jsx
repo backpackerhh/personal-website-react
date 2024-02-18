@@ -2,7 +2,7 @@ import React from "react";
 import { I18nextProvider } from "react-i18next";
 import { render, screen } from "@testing-library/react";
 
-import App from "./../App";
+import App from "../App";
 import i18n from "../../utils/i18n-test";
 
 it("renders expected content", () => {
