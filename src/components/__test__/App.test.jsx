@@ -29,7 +29,7 @@ it("renders expected content", () => {
   expect(links[1]).toHaveAttribute("href", "https://linkedin.com/in/backpackerhh");
 
   expect(links[2]).toHaveTextContent("CV");
-  expect(links[2]).toHaveAttribute("href", "https://mnf.red/davidmontesdeoca");
+  expect(links[2]).toHaveAttribute("href", "https://www.getmanfred.com/en/applications/5fef1ff8-4a3e-41d5-8a7d-3a6da050e5f5");
 
   expect(links[3]).toHaveTextContent("Stack Overflow");
   expect(links[3]).toHaveAttribute("href", "http://stackoverflow.com/users/1477964/backpackerhh");

@@ -9,7 +9,7 @@ const Social = () => {
         <div className="row">
           <SocialItem text="Blog" icon="pen square big" url="https://blog.davidmontesdeoca.es" />
           <SocialItem text="LinkedIn" icon="linkedin big" url="https://linkedin.com/in/backpackerhh" />
-          <SocialItem text="CV" icon="file outline big" url="https://mnf.red/davidmontesdeoca" />
+          <SocialItem text="CV" icon="file outline big" url="https://www.getmanfred.com/en/applications/5fef1ff8-4a3e-41d5-8a7d-3a6da050e5f5" />
         </div>
         <div className="row">
           <SocialItem
