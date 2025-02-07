@@ -4,7 +4,7 @@ https://keybase.io/backpackerhh
 
 I hereby claim:
 
-  * I am an admin of https://davidmontesdeoca.es
+  * I am an admin of https://davidmp.es
   * I am backpackerhh (https://keybase.io/backpackerhh) on keybase.
   * I have a public key ASAbGAEAN_vx-W97CRO0GG3xEQReFKUk6y65OpxeZCaPugo
 
@@ -27,7 +27,7 @@ To do so, I am signing this object:
     },
     "service": {
       "entropy": "boiQchxT6xVyBlhe+KHgMlyB",
-      "hostname": "davidmontesdeoca.es",
+      "hostname": "davidmp.es",
       "protocol": "https:"
     },
     "type": "web_service_binding",
